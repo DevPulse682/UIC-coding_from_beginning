@@ -23,3 +23,17 @@ p2 = Point(x=3, y=-1)
 res=p1+p2
 print(res)
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
